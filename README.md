@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Joel! 👋
 
-<!--
-**joellje/joellje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 &nbsp; Currently a visiting student at UC Berkeley. My home university is Nanyang Technological University in Singapore, where I study Computer Science & Technology Management.
 
-Here are some ideas to get you started:
+🌱 &nbsp; Learning more about System Design and Backend Web Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 &nbsp; Looking to collaborate on open-source projects, particularly Python and JavaScript/TypeScript projects.
+
+📫 &nbsp; Reach me anytime at joellimjieen@berkeley.edu
+
+<br/>
+
+[Website](https://joellje.github.io/) | [LinkedIn](https://www.linkedin.com/in/joel-lim-jie-en/) | [LeetCode](https://leetcode.com/joellje/)
