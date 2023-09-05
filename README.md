@@ -1,12 +1,12 @@
 ### Hi there, I'm Joel! 👋
 
-🎓 &nbsp; Currently a visiting student at UC Berkeley. My home university is Nanyang Technological University in Singapore, where I study Computer Science & Technology Management.
+🎓 &nbsp; Currently a fourth year student at Nanyang Technological University (Singapore), where I study Computer Science & Technology Management.
 
 🌱 &nbsp; Learning more about System Design and Backend Web Architecture.
 
 🤝 &nbsp; Looking to collaborate on open-source projects, particularly Python and JavaScript/TypeScript projects.
 
-📫 &nbsp; Reach me anytime at joellimjieen@berkeley.edu
+📫 &nbsp; Reach me anytime at joellimjieen@hotmail.com
 
 <br/>
 
